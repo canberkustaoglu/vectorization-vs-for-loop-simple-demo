@@ -1,0 +1,1 @@
+# vectorization-vs-for-loop-simple-demo
